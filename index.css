@@ -1,0 +1,11 @@
+p {
+  display: flex;
+  border: 4px solid black;
+  height: 10vh;
+  border-radius: 30px;
+
+  align-items: center;
+
+  font-size: 15pt;
+  padding-left: 5%;
+}
